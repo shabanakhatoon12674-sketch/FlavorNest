@@ -1,16 +1,44 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🍽️ FlavorNest
 
-Currently, two official plugins are available:
+FlavorNest is a modern and responsive restaurant website built using React and Vite. It provides an attractive interface where users can explore delicious food items, view the menu, and enjoy a smooth browsing experience on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Responsive Design (Desktop & Mobile)
+- Modern UI
+- Fast Performance with Vite
+- Clean Folder Structure
+- Easy Navigation
+- Attractive Food Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Folder Structure
+
+```
+src/
+public/
+index.html
+package.json
+vite.config.js
+README.md
+```
+
+## 🌐 Live Demo
+
+https://capable-gingersnap-856755.netlify.app/
+
+## 📌 GitHub Repository
+
+https://github.com/shabanakhatoon12674-sketch/FlavorNest
+
+## 👩‍💻 Author
+
+**Shabana Khatoon**
